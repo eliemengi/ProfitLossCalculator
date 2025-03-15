@@ -1,4 +1,6 @@
-Hier ist eine professionelle README für dein Projekt, die deine C#- und SQL-Skills hervorhebt. Ich habe sie so geschrieben, dass sie für HR, potenzielle Arbeitgeber oder Professoren professionell und technisch ansprechend wirkt.  
+A C# app that reads financial data, calculates profit/loss, and displays it in a GUI.
+
+ 
 
 ---  
 
@@ -60,7 +62,3 @@ WHERE Period = '2024-Q1';
 💌 **Email:** your.email@example.com  
 💻 **GitHub:** [Mein Profil](https://github.com/eliemengi)  
 📍 **Location:** Bruchsal, Deutschland  
-
----
-
-Diese README stellt dein C#- und SQL-Wissen perfekt dar. Falls du noch etwas anpassen willst (z. B. spezielle technische Details oder deinen eigenen Code-Ausschnitt), sag einfach Bescheid! 😊
