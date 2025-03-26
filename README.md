@@ -59,6 +59,6 @@ WHERE Period = '2024-Q1';
 ```
 
 ### **📬 Contact**  
-💌 **Email:** your.email@example.com  
+💌 **Email:** eliemengi2@gmail.com  
 💻 **GitHub:** [Mein Profil](https://github.com/eliemengi)  
 📍 **Location:** Bruchsal, Deutschland  
